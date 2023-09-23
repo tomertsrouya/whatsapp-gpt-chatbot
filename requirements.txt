@@ -1,0 +1,5 @@
+requests==2.31.0
+twilio
+openai
+flask
+gunicorn==20.1.0
